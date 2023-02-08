@@ -1,1 +1,1 @@
-My third readme
+This repository gets deeper into shell basics
