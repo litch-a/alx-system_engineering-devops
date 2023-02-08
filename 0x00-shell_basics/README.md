@@ -6,3 +6,4 @@ ls -la Display current directory contents, including hidden files (starting with
 ls -lna Display current directory contents in long format,with user and groupIDs displayed numerically and hidden files.
 mkdir tmp/6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
 mv Moves the file betty from /tmp/ to /tmp/my_first_directory.
+rm betty Delete the file betty.
