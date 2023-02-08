@@ -8,4 +8,4 @@ mkdir tmp/6-firstdirectory creates a directory named my_first_directory in the /
 mv Moves the file betty from /tmp/ to /tmp/my_first_directory.
 rm betty Delete the file betty.
 rmdir Delete the directory my_first_directory that is in the /tmp directory
-cd .. changes the working directory to the previous one.
+cd - changes the working directory to the previous one.
